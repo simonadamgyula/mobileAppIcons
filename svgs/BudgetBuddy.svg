@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #e06806;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #232323;
+      }
+
+      .cls-2 {
+        fill: #3a3a3a;
+      }
+
+      .cls-4 {
+        fill: #090909;
+      }
+
+      .cls-5 {
+        fill: #e06806;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <rect class="cls-4" width="300" height="300"/>
+      <rect class="cls-1" x="27.99" y="56.89" width="232.92" height="186.01" rx="20.14" ry="20.14"/>
+      <rect class="cls-1" x="27.99" y="88.07" width="233.23" height="155.04" rx="20.14" ry="20.14"/>
+      <rect class="cls-3" x="31.99" y="79.59" width="41.69" height="123.3"/>
+      <circle class="cls-5" cx="73.54" cy="88.07" r="4"/>
+      <path class="cls-2" d="M235.54,138.63h35.64c6.78,0,12.29,5.51,12.29,12.29v26.78c0,6.78-5.51,12.29-12.29,12.29h-35.64c-14.17,0-25.68-11.51-25.68-25.68h0c0-14.17,11.51-25.68,25.68-25.68Z"/>
+      <circle class="cls-5" cx="235.27" cy="164.32" r="9"/>
+    </g>
+  </g>
+</svg>
